@@ -29,7 +29,7 @@ Full-stack software engineer with a background in Judaic Law. <br> <br>
 <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
 <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" height="40"/>
 
-<br> <br>
+<br> 
 
 ## Let's Connect :
 <a href="https://www.linkedin.com/in/simon-cohen-575413102/" target="blank"><img align="left" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" height="30" width="30" /></a>
