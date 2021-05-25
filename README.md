@@ -26,9 +26,8 @@ Full-stack software engineer with a background in Judaic Law. <br> <br>
 <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
 <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=4b3672" alt="rails" align="left" width="40" height="40"/>
 <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimple.wikipedia.org%2Fwiki%2FC_(programming_language)&psig=AOvVaw2TBWZ7gS_hGveTpVn-2KqY&ust=1622036773824000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDXlIP85PACFQAAAAAdAAAAABAD" alt="html5" align="left" width="40" height="40"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjunilearning.com%2Fblog%2Fguide%2Fwhat-is-python-101-for-students%2F&psig=AOvVaw2cNmp_HeyaCyGr3WoGZYFL&ust=1622036807222000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIia_JD85PACFQAAAAAdAAAAABAD" alt="html5" align="left" width="40" height="40"/>
+<img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
+<img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" height="40"/>
 
 <br> <br>
 
