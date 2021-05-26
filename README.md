@@ -7,10 +7,10 @@ Full-stack software engineer with a background in Judaic Law. <br> <br>
 
 ## Projects
 
-####  bookFund [Demo](https://bookfund.netlify.app/) | [Frontend Repo](https://github.com/escohen115/frontend-bookfund) | [Backend Repo](https://github.com/escohen115/backend-bookfund) 
+####  bookFund [Demo](https://www.loom.com/share/f9eebb829c404225ac57b008f30869ed/) | [Frontend Repo](https://github.com/escohen115/frontend-bookfund) | [Backend Repo](https://github.com/escohen115/backend-bookfund) 
 <i> bookFund is a platform where users can sponsor or receive copies of books they’re interested in reading. </i>
 
-#### pixelArt [Demo](https://pixelartflatiron.netlify.app) | [Frontend Repo](https://github.com/escohen115/pixel-art) | [Backend Repo](https://github.com/escohen115/backend-pixel-art) 
+#### pixelArt [Demo](https://www.loom.com/share/9a4b14956d3e46e6b534cc0e66782896) | [Frontend Repo](https://github.com/escohen115/pixel-art) | [Backend Repo](https://github.com/escohen115/backend-pixel-art) 
 <i> pixelArt is a sharing platform to create, save, and view custom pixel art. </i>
 
 #### reviveNY [Frontend Repo](https://github.com/escohen115/revive-NY-frontend) | [Backend Repo](https://github.com/escohen115/revive_NY_backend) 
