@@ -4,7 +4,6 @@
 Full-stack software engineer with a background in Judaic Law. <br> <br>
  Passionate about building applications that solve real world problems. Code synthesizes my drive for lifelong learning, creativity, and critical reasoning.
 
-
 ## Projects
 
 ####  bookFund [Demo](https://www.loom.com/share/f9eebb829c404225ac57b008f30869ed/) | [Frontend Repo](https://github.com/escohen115/frontend-bookfund) | [Backend Repo](https://github.com/escohen115/backend-bookfund) 
