@@ -19,6 +19,7 @@ Full-stack software engineer with a background in Web Analytics. <br> <br>
 #### reviveNY [Frontend Repo](https://github.com/escohen115/revive-NY-frontend) | [Backend Repo](https://github.com/escohen115/revive_NY_backend) 
 <i> reviveNY is a platform that enables users to sponsor businesses impacted by COVID-19. </i>
 
+
 ## Skills 
 
 <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
