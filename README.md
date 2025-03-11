@@ -1,11 +1,10 @@
 
 ##  Hi, I'm Simcha! 👋 
 
-Full-stack software engineer with a background in Web Analytics. <br> <br>
+Full-stack software engineer
+<br> 
+<br>
 Passionate about building applications that deliver an outstanding user experience. Code synthesizes my drive for lifelong learning, creativity, and critical reasoning.
-
-
-
 
 ## Projects 
 
